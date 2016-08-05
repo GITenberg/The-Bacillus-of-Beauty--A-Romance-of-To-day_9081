@@ -1,0 +1,25 @@
+_repo: The-Bacillus-of-Beauty--A-Romance-of-To-day_9081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stark, Harriet
+    gutenberg_agent_id: '2969'
+    url: http://www.gutenberg.org/2009/agents/2969
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Beauty, Personal -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: 'The Bacillus of Beauty: A Romance of To-day'
+url: http://www.gutenberg.org/ebooks/9081
